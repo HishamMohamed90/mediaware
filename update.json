@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.7.2",
+  "latest_version": "1.7.9",
   "latest_build": "15",
   "download_url": "https://github.com/hishammohamed90/mediaware/app-release.apk",
-  "release_notes": "fix bugs",
+  "release_notes": "1.Fix bugs in home page 2. Improve Privacy of app.",
   "is_critical": true,
   "min_required_version": "1.6.0",
   "update_size": "82.6 MB",
