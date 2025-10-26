@@ -2,7 +2,7 @@
   "latest_version": "2.6.2",
   "latest_build": "15",
   "download_url": "https://github.com/hishammohamed90/mediaware/app-release.apk",
-  "release_notes": "1. Mew Navigation Rounded UI\n2. Add more options to settings page\n3. New Slide menu for shortcuts",
+  "release_notes": "1. Mew Navigation Rounded UI.\n2. Add more options to settings page.\n3. New Slide menu for shortcuts.\n4.more privacy for app data.\n5.Add Encryption system for your local profile.",
   "is_critical": true,
   "min_required_version": "1.6.0",
   "update_size": "54.2 MB",
