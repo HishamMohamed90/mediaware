@@ -1,7 +1,7 @@
 [
   {
-    "title": "What's New in Version 2.1.0",
-    "article": "We are excited to share our latest updates with you! Our team has been working hard to improve the overall performance and introduce features that make your experience smoother and more intuitive. Thank you for being a part of our community.",
+    "title": "What's New in Beta 0.68.1",
+    "article": "We are fixed bugs of Media Page reason Lag or Crash",
     "notifications": [
       "App is officially released on the Store.",
       "Added full support for Dark Mode.",
