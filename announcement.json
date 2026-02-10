@@ -3,16 +3,18 @@
     "id": 401,
     "title": "Support Palestine 🇵🇸",
     "body": "We stand with Palestine. Click to learn how to help.",
-    "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/palestine_banner.png",
+    "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/palestine.png",
     "link": "https://www.google.com",
+    "date": "2026-02-10",
     "is_active": true
   },
   {
     "id": 402,
-    "title": "New Glass UI Update!",
-    "body": "Check out our new Frosted Glass icons and layout.",
-    "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/ui_preview.png",
-    "link": "app://settings/theme",
+    "title": "New Update Available",
+    "body": "Experience the new glass-morphism UI in version 1.0.5.",
+    "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/update.png",
+    "link": "https://github.com/hishammohamed90/mediaware/releases",
+    "date": "2026-02-09",
     "is_active": true
   }
 ]
