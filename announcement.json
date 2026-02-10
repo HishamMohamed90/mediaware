@@ -1,8 +1,8 @@
 [
   {
     "id": 401,
-    "title": "Support Palestine 🇵🇸",
-    "body": "We stand with Palestine. Click to learn how to help.",
+    "title": "Welcome to MediaWare",
+    "body": "Thank you for choosing MediaWare App.",
     "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/palestine.png",
     "link": "https://www.google.com",
     "date": "2026-02-10",
@@ -10,8 +10,8 @@
   },
   {
     "id": 402,
-    "title": "New Update Available",
-    "body": "Experience the new glass-morphism UI in version 1.0.5.",
+    "title": "MediaWare with Palestine",
+    "body": "Test",
     "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/update.png",
     "link": "https://github.com/hishammohamed90/mediaware/releases",
     "date": "2026-02-09",
