@@ -1,1 +1,14 @@
-.
+[
+  {
+    "id": 301,
+    "title": "Support",
+    "body": "We stand with Palestine 🇵🇸",
+    "is_active": true
+  },
+  {
+    "id": 302,
+    "title": "Welcome",
+    "body": "Thank you for MediaWare!",
+    "is_active": true
+  }
+]
