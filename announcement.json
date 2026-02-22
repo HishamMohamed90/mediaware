@@ -16,9 +16,9 @@
     "link": "https://github.com/hishammohamed90/mediaware/releases",
     "date": "2026-02-09",
     "is_active": true
-  }
+  },
   {
-    "id": 402,
+    "id": 403,
     "title": "New UI",
     "body": "Test",
     "image_url": "https://raw.githubusercontent.com/user/repo/main/assets/update.png",
@@ -26,3 +26,4 @@
     "date": "2026-02-09",
     "is_active": true
   }
+]
